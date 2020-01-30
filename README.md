@@ -1,2 +1,2 @@
 # scener
-archtecture for scene based playback control
+architecture for scene based playback control
